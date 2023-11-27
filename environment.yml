@@ -1,0 +1,4 @@
+name: password_rollover
+dependencies:
+  - oracledb
+  - testfixtures
